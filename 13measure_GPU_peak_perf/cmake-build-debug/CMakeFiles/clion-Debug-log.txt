@@ -1,0 +1,4 @@
+"D:\App\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/App/JetBrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -DPython_EXECUTABLE=D:/App/Anaconda3/envs/grasp_one/python.exe -DPython3_EXECUTABLE=D:/App/Anaconda3/envs/grasp_one/python.exe -S D:\Common-Operators_CUDA\13measure_GPU_peak_perf -B D:\Common-Operators_CUDA\13measure_GPU_peak_perf\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Common-Operators_CUDA/13measure_GPU_peak_perf/cmake-build-debug

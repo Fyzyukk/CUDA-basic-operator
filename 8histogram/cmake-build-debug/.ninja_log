@@ -1,0 +1,5 @@
+# ninja log v6
+1	2990	7548379638954586	CMakeFiles/histogram_v1.dir/8-1.histogram.cu.obj	f43aaac376185bdf
+2992	3695	7548379668863554	histogram_v1.exe	fb3ea10f568c847d
+1	2933	7548384880687873	CMakeFiles/histogram_v2.dir/8-2.histogram.cu.obj	9b1a12a891c7e2f1
+2934	3645	7548384910016461	histogram_v2.exe	c8a4c2378bb60ce4
