@@ -1,0 +1,12 @@
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_baseline.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v1.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v2.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v3.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v4.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v5.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v6.0.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v6.1.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v6.2.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/reduce_v7.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CUDA-Optimization-main/Reduce/cmake-build-debug/CMakeFiles/rebuild_cache.dir

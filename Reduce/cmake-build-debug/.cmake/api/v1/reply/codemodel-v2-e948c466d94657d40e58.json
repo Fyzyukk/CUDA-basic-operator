@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Elementwise",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_baseline::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_baseline-Debug-32b62dc9dc9553e35aa9.json",
+					"name" : "reduce_baseline",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v1-Debug-fbfc49890c555c4e8fce.json",
+					"name" : "reduce_v1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v2-Debug-a62fcbf22bf0e90a918f.json",
+					"name" : "reduce_v2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v3-Debug-aaab2a0c9ebb28924cc0.json",
+					"name" : "reduce_v3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v4-Debug-24dcaf83619c2d475e92.json",
+					"name" : "reduce_v4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v5-Debug-8a30375fdebcfa2b7605.json",
+					"name" : "reduce_v5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v6.0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v6.0-Debug-201ae8154e892342de91.json",
+					"name" : "reduce_v6.0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v6.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v6.1-Debug-b466480926b080018c40.json",
+					"name" : "reduce_v6.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v6.2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v6.2-Debug-fc477627dab4561b08c4.json",
+					"name" : "reduce_v6.2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reduce_v7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reduce_v7-Debug-3713a106901cd9ee36d7.json",
+					"name" : "reduce_v7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/CUDA-Optimization-main/Reduce/cmake-build-debug",
+		"source" : "D:/CUDA-Optimization-main/Reduce"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

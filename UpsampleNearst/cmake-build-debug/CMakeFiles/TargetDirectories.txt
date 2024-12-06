@@ -1,0 +1,6 @@
+D:/CUDA-Optimization-main/UpsampleNearst/cmake-build-debug/CMakeFiles/upsamplenearest_v1.dir
+D:/CUDA-Optimization-main/UpsampleNearst/cmake-build-debug/CMakeFiles/upsamplenearest_v2.dir
+D:/CUDA-Optimization-main/UpsampleNearst/cmake-build-debug/CMakeFiles/upsamplenearest_v3.dir
+D:/CUDA-Optimization-main/UpsampleNearst/cmake-build-debug/CMakeFiles/upsamplenearest_v4.dir
+D:/CUDA-Optimization-main/UpsampleNearst/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CUDA-Optimization-main/UpsampleNearst/cmake-build-debug/CMakeFiles/rebuild_cache.dir

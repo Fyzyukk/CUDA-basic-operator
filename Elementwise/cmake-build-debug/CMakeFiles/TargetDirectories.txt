@@ -1,0 +1,8 @@
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/elementwise_relu_baseline.dir
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/elementwise_relu_v1.dir
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/elementwise_relu_v2.dir
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/elementwise_relu_v3.dir
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/elementwise_dotmul_baseline.dir
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/elementwise_dotmul_v1.dir
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CUDA-Optimization-main/Elementwise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
