@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------------------------
 
-包含Softmax,Gelu,Dropout,Reduce,Quantize，Relu，elementwis，Upsample等基础算子。
+包含Softmax,Gelu,Dropout,Reduce,Quantize,Relu,elementwise,Upsample等基础算子。
 
 包含FP32，FP16等实现，以及一些常用的优化手段，如共享内存，向量读写，warp-level操作，以及使用nsight computer查看带宽，吞吐量等，进行性能分析。
 
